@@ -1,11 +1,11 @@
 import React from 'react';
 import 'antd/dist/antd.css';
 import '../index.css';
-import { Divider, Avatar} from 'antd';
+import { Avatar} from 'antd';
 import Links from './Footer';
-import About from './About';
 import image from '../image/sajak-senja-icon.png'
 import playstore from '../image/google_play.png'
+import Fitur from './Fitur.js';
 
 class Home extends React.Component {
   render() {
@@ -17,8 +17,10 @@ class Home extends React.Component {
               <a href="https://play.google.com/store/apps/details?id=com.sajaksenja"><img className="playstore" src={playstore} alt="#"></img></a>
               <Links/>
             </div>
-            <About/>
-            <Divider/>
+            <Fitur />
+            <div className='footer'>
+              <h3 style={{color:'#fff'}}>Copyright &copy;2020 | Sajak Senja</h3>
+            </div>
           </div>
   }
 }
