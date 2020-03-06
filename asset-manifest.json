@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30ca1f65.chunk.css",
+    "main.js": "/static/js/main.7e1547e5.chunk.js",
+    "main.js.map": "/static/js/main.7e1547e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b34489f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b34489f9.js.map",
+    "static/css/2.65d0fb34.chunk.css": "/static/css/2.65d0fb34.chunk.css",
+    "static/js/2.d9e16a03.chunk.js": "/static/js/2.d9e16a03.chunk.js",
+    "static/js/2.d9e16a03.chunk.js.map": "/static/js/2.d9e16a03.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e49b3719675347576ef6bf816911bf85.js": "/precache-manifest.e49b3719675347576ef6bf816911bf85.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.65d0fb34.chunk.css.map": "/static/css/2.65d0fb34.chunk.css.map",
+    "static/css/main.30ca1f65.chunk.css.map": "/static/css/main.30ca1f65.chunk.css.map",
+    "static/media/sajak-senja-icon.png": "/static/media/sajak-senja-icon.bf1589cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b34489f9.js",
+    "static/css/2.65d0fb34.chunk.css",
+    "static/js/2.d9e16a03.chunk.js",
+    "static/css/main.30ca1f65.chunk.css",
+    "static/js/main.7e1547e5.chunk.js"
+  ]
+}
